@@ -1,6 +1,6 @@
 # What is this?
 
-This fixes an how pulseaudio handles Bluethooth headphones and makes it function more like core audio (that has sane dafaults).
+This fixes an how pulseaudio handles Bluetooth headphones and makes it function more like core audio (that has sane defaults).
 
 ## PA's infuriating normal operation
 
